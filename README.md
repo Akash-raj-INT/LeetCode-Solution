@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -81,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
