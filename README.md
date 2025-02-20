@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -99,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
