@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
