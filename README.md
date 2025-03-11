@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Simulation
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
