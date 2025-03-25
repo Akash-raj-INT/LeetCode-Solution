@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3483-alternating-groups-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
