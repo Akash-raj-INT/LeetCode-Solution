@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Matrix
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 ## Monotonic Stack
 |  |
 | ------- |
