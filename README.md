@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
