@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
