@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
