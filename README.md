@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2478-longest-nice-subarray](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
