@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0792-binary-search) |
