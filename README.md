@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0908-middle-of-the-linked-list) |
