@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
