@@ -1,28 +1,21 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        // Remove extra spaces
-        string result, word;
-        vector<string> words;
-        stringstream ss(s);
+        int n=s.length();
+        string ans="";
+        reverse(s.begin(),s.end());
 
-        while (ss >> word) {
-            words.push_back(word);
-        }
-
-        reverse(words.begin(), words.end());
-
-        for (int i = 0; i < words.size(); i++) {
-            result += words[i];
-            if (i != words.size() - 1)
-                result += " ";
-        }
-
-        return result;
+        for(int i=0; i<n ;i++){
+            string word = "";
+            while(i<n && s[i] != ' '){
+                word += s[i];
+                i++;
+            }
+            reverse(word.begin(), word.end());
+            if(word.length() > 0){
+                ans += " " + word;
+            }
+        } 
+        return ans.substr(1);
     }
 };
-
-
-
-
-
