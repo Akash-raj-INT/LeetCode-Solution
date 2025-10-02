@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0792-binary-search) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3447-clear-digits) |
 ## Simulation
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
