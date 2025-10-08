@@ -1,14 +1,10 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        int n = nums.size();
-        k %= n; // Handle cases where k > n
-
-        // Reverse entire array
-        reverse(nums.begin(), nums.end());
-        // Reverse first k elements
-        reverse(nums.begin(), nums.begin() + k);
-        // Reverse remaining elements
-        reverse(nums.begin() + k, nums.end());
+        int n=nums.size();
+        k%=n;
+        reverse(nums.begin(),nums.end());
+        reverse(nums.begin(),nums.begin()+k);
+        reverse(nums.begin()+k,nums.end());
     }
 };
