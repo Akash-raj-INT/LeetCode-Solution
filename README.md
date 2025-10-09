@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0283-move-zeroes) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0792-binary-search) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [2478-longest-nice-subarray](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Akash-raj-INT/LeetCode-Solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
